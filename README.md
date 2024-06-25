@@ -22,3 +22,7 @@ AstroCoin is a fun and interactive clicker game where players earn AstroCoins by
  Watch The Tutorial From Here
 </a>
 </h2>
+
+
+<img style='border-radius: 5%; height: 700px; width: 330px;margin: 0 10px;' src="https://github.com/AstroDevs-Team/AstroCoin/blob/3dfaf0456b57bff8e2d2cbd128d70d08b39db5c7/iPhone%2015%20Pro.png" alt="Screenshot-1">
+</div>
